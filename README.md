@@ -1,5 +1,7 @@
 # 8PuzzleGameAndSoloution_AI_
 
+![8PuzzleGameAndSoloution_AI]((https://github.com/mbhesam/8PuzzleGameAndSoloution_AI_/blob/main/8puzzle_game.webp))
+
 ## About The Project
 With this code you can play 8-puzzle-game and have fun. 
 Also this code will get start position of nodes in input.txt and will solve the game by AI soloutions then save phase of solving in outputIDA.txt. 
