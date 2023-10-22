@@ -1,6 +1,6 @@
 # 8PuzzleGameAndSoloution_AI_
 
-![8PuzzleGameAndSoloution_AI]((https://github.com/mbhesam/8PuzzleGameAndSoloution_AI_/blob/main/8puzzle_game.webp))
+![8_puzzle_game](https://github.com/mbhesam/8PuzzleGameAndSoloution_AI_/blob/main/8puzzle_game.png)
 
 ## About The Project
 With this code you can play 8-puzzle-game and have fun. 
